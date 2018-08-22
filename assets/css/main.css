@@ -1073,7 +1073,7 @@
 
 	#main {
 		position: relative;
-		overflow: auto;
+		overflow: hidden;
         height: 675px!important;
 	}
 
