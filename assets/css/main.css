@@ -1073,7 +1073,8 @@
 
 	#main {
 		position: relative;
-		overflow: hidden;
+		overflow: auto;
+        height: 675px!important;
 	}
 
 	.panel {
