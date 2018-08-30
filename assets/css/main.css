@@ -905,7 +905,7 @@
 		}
 
 	header > p {
-		color: #aaa;
+		color: #5f5e5e;
 	}
 
 /* Image */
@@ -1074,7 +1074,6 @@
 	#main {
 		position: relative;
 		overflow: hidden;
-        height: 675px!important;
 	}
 
 	.panel {
@@ -1409,15 +1408,15 @@
 					#me header > h1 {
 						position: absolute;
 						left: 0;
-						bottom: 72.5%;
+						bottom: 82.5%;
 						margin: 0;
 					}
 
 					#me header > p {
 						position: absolute;
 						left: 0;
-						top: 35.5%;
-						font-size: 1em;
+						top: 20.5%;
+						font-size: .85em;
 						letter-spacing: -0.015em;
 						margin-top: 0;
                         width: 56%;
